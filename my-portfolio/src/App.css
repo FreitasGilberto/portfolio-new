@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --ocean: 35 100 170;
+  --sky: 61 165 217;
+  --teal: 115 191 184;
+  --sun: 254 198 1;
+  --pumpkin: 234 115 23;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  background: #f4f4f5;
+}
