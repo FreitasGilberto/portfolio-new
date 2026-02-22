@@ -1,7 +1,7 @@
 export const portfolio = {
     name: "Gilberto Freitas",
     role: "Frontend Developer",
-    headline: "Over 5 years creating web products",
+    headline: "Frontend Developer with 5+ years of experience building scalable web applications using Vue, React, and TypeScript. Strong background in enterprise environments, CI/CD pipelines, cloud deployments, and automated testing. Experienced working in Agile teams and collaborating with cross-functional stakeholders.",
     location: "Buenos Aires, Argentina",
     avatar: "/avatar.png",
 
@@ -50,8 +50,8 @@ export const portfolio = {
                 period: "07/2024 - Present",
                 role: "Frontend Developer",
                 bullets: [
-                    "Develop and maintain enterprise-level web applications using Vue and TypeScript.",
-                    "Build reusable UI components and scalable frontend architectures.",
+                    "Develop and maintain enterprise-level web applications using Vue 3 and TypeScript.",
+                    "Build reusable UI components and scalable frontend architectures using Vue and TypeScript to support enterprise-scale applications.",
                     "Work within Agile/Scrum methodologies (sprint planning, refinements, retrospectives).",
                     "Implement CI/CD pipelines using Azure DevOps.",
                     "Write unit and integration tests using Testing Library and Cypress.",
@@ -74,9 +74,12 @@ export const portfolio = {
                 period: "05/2024 - 07/2024",
                 role: "Frontend Developer",
                 bullets: [
-                    "Develop frontend features using React.js.",
-                    "Deploy and manage applications using Amazon Web Services (AWS).",
-                    "Collaborate with distributed teams on contract-based client projects.",
+                    "Develop a Minimum Viable Product (MVP) for a real estate web platform using React.js.",
+                    "Build user flows for real estate agents to create, manage, and publish property listings.",
+                    "Implement user flows for potential tenants to browse available properties and request agent contact information.",
+                    "Enable communication workflows between agents and interested users through contact request features.",
+                    "Deploy and manage the application using Amazon Web Services (AWS).",
+                    "Collaborate with distributed teams under a contract-based engagement.",
                 ],
                 tags: ["React", "AWS", "JavaScript", "Git", "REST APIs"],
             },
@@ -90,6 +93,7 @@ export const portfolio = {
                     "Optimize web performance (load times, asset optimization, caching strategies).",
                     "Perform testing, debugging, and bug fixing to ensure high-quality deliverables.",
                     "Collaborate with designers and developers using Git-based workflows.",
+                    "Contribute to frontend best practices and code quality standards within the team.",
                 ],
                 tags: [
                     "HTML5",
