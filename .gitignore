@@ -1,0 +1,69 @@
+# =========================
+# Node / Package managers
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Build / Dist
+# =========================
+dist/
+build/
+out/
+.next/
+.nuxt/
+.gatsby/
+.cache/
+coverage/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# IntelliJ / WebStorm
+.idea/
+*.iml
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Temporary / Misc
+# =========================
+.tmp/
+.temp/
+*.swp
+*.swo
+
+# =========================
+# Testing
+# =========================
+cypress/videos/
+cypress/screenshots/
+playwright-report/
+test-results/
+
+# =========================
+# Static exports
+# =========================
+public/build/

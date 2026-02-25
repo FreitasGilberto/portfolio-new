@@ -1,17 +1,9 @@
-// import { useEffect } from "react";
 import { AppFrame } from "./components/AppFrame";
 import { HomeSection } from "./components/HomeSection";
 import { ResumeSection } from "./components/ResumeSection";
 import { portfolio } from "./data/portfolio";
 
 export default function App() {
-  // useEffect(() => {
-  //   const hash = window.location.hash || "#home";
-  //   if (hash !== "#home" && hash !== "#contact") {
-  //     window.location.hash = "#home";
-  //   }
-  // }, []);
-
   return (
     <AppFrame>
       <HomeSection
