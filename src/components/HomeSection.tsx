@@ -17,7 +17,7 @@ export function HomeSection({
   socials: { label: string; href: string }[];
 }) {
   return (
-    <div className="px-5 pb-5 space-y-4">
+    <div className="p-5 space-y-4">
       <Card>
         <div className="flex items-start gap-4">
           <div className="h-16 w-16 overflow-hidden rounded-full border border-black/10 shrink-0">

@@ -27,7 +27,7 @@ export function ResumeSection({
         </div>
 
         <Button href={cvHref} variant="cta" download className="shrink-0">
-          Download CV ↓
+          Download CV
         </Button>
       </div>
 

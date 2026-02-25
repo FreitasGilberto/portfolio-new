@@ -1,7 +1,7 @@
 export const portfolio = {
     name: "Gilberto Freitas",
     role: "Frontend Developer",
-    headline: "Frontend Developer with 5+ years of experience building scalable web applications using Vue, React, and TypeScript. Strong background in enterprise environments, CI/CD pipelines, cloud deployments, and automated testing. Experienced working in Agile teams and collaborating with cross-functional stakeholders.",
+    headline: "Frontend Developer with 5+ years of experience building scalable web applications. Experienced working in Agile teams and collaborating with cross-functional stakeholders.",
     location: "Buenos Aires, Argentina",
     avatar: "/avatar.png",
 
